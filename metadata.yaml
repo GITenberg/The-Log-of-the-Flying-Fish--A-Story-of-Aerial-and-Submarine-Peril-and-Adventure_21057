@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9699
 description: Adventurers wander the globe in a 500 foot long battle ship that travels
   in air, land, and water.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21057#The-Log-of-the-Flying-Fish--A-Story-of-Aerial-and-Submarine-Peril-and-Adventure
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
